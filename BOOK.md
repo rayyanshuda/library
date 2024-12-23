@@ -40,5 +40,4 @@ The class Book stores information about individual books with the following info
 
 ### `print()`
 - **Description:**  
-  Outputs the current values stored inside the `Book` object.
-
+  Outputs the current values stored inside the `Book` object
