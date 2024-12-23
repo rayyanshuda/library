@@ -42,3 +42,13 @@ Serves as the user interface.
 
 Allows interaction with the library system's classes and methods.
 
+
+# How to Run
+
+Compile the code using a C++ compiler (I used g++):
+
+
+Run the Executable:
+
+
+
