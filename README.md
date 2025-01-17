@@ -8,7 +8,7 @@ This project is a comprehensive implementation of a Library System written in C+
 
 Represents individual books in the library.
 
-Stores book-related information such as title, author, and ISBN.
+Stores book-related information such as title, author, genre, and year published.
 
 ### Library Class
 
