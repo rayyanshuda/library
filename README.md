@@ -46,12 +46,14 @@ Allows interaction with the library system's classes and methods.
 # How to Run
 > [!NOTE]
 > Ensure the provided files are in the same folder
-      
-1. Compile the code using a C++ compiler (I used g++):
+
+1. Run the `main.cpp` in the terminal
+
+2. Compile the code using a C++ compiler (I used g++):
 
     g++ -std=c++11 main.cpp book.cpp lib.cpp libUser.cpp -o library
 
-2. Run the Executable:
+3. Run the Executable:
 
     ./library
 
